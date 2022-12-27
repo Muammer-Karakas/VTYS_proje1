@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTYS form1", "VTYS form1\VTYS form1.csproj", "{8169916E-5D55-4C0F-829E-F20018ED1002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "form2", "form2\form2.csproj", "{B7972490-E8CC-4B68-9330-7513AC6A3F0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8169916E-5D55-4C0F-829E-F20018ED1002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8169916E-5D55-4C0F-829E-F20018ED1002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8169916E-5D55-4C0F-829E-F20018ED1002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8169916E-5D55-4C0F-829E-F20018ED1002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7972490-E8CC-4B68-9330-7513AC6A3F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7972490-E8CC-4B68-9330-7513AC6A3F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7972490-E8CC-4B68-9330-7513AC6A3F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7972490-E8CC-4B68-9330-7513AC6A3F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ADCC816-E781-40D8-8BC6-35256A64C0C0}
+	EndGlobalSection
+EndGlobal

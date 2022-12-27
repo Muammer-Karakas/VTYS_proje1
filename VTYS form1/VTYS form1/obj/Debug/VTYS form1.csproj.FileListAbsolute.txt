@@ -1,0 +1,41 @@
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\obj\Debug\VTYS form1.csproj.AssemblyReference.cache
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\obj\Debug\VTYS_form1.Form1.resources
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\obj\Debug\VTYS_form1.Form2.resources
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\obj\Debug\VTYS_form1.Form3.resources
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\obj\Debug\VTYS form1.csproj.GenerateResource.cache
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\obj\Debug\VTYS form1.csproj.CoreCompileInputs.cache
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\VTYS form1.exe.config
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\VTYS form1.exe
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\VTYS form1.pdb
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\Npgsql.dll
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\System.Buffers.dll
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\System.Memory.dll
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\System.Text.Json.dll
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\System.Threading.Channels.dll
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\System.ValueTuple.dll
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\Npgsql.xml
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\System.Buffers.xml
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\System.Memory.xml
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\System.Text.Json.xml
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\System.Threading.Channels.xml
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\bin\Debug\System.ValueTuple.xml
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\obj\Debug\VTYS form1.exe
+C:\Users\muammer karakaş\source\repos\VTYS form1\VTYS form1\obj\Debug\VTYS form1.pdb
